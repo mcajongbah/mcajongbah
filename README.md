@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Dart and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mcajongbah](https://github.com/mcajongbah)
+- 👨‍💻 All my projects are available at [https://github.com/mcajongbah](https://github.com/mcajongbah)
 
 - 💬 Ask me about **react, django, node**
 
