@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Malvin Ajongbah</h1>
-<h2 align="center">An ever evolving full-stack web developer from Ghana</h2>
+<h2 align="center">A Frontend heavy  from Ghana</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mcajongbah&label=Profile%20views&color=0e75b6&style=flat" alt="mcajongbah" /> </p>
 
 <p align="center"> <a href="https://twitter.com/mcajongbah" target="blank"><img src="https://img.shields.io/twitter/follow/mcajongbah?logo=twitter&style=for-the-badge" alt="mcajongbah" /></a> </p>
 
-- 🌱 I’m currently learning **to use React with TypeScript**
+- 🌱 I’m currently learning **Dart and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mcajongbah](https://github.com/mcajongbah)
 
