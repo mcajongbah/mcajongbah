@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malvin Ajongbah</h1>
-<h2 align="center">A Frontend heavy  from Ghana</h2>
+<h2 align="center">A frontend heavy full stack engineer from Ghana</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mcajongbah&label=Profile%20views&color=0e75b6&style=flat" alt="mcajongbah" /> </p>
 
